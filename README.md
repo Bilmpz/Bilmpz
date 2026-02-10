@@ -6,12 +6,13 @@
 
 
 
-<h1 align="left">Oliver Løbel</h1>
-<p align="left"><b>DEVELOPER</b></p>
+### 👋 Hi, I'm Oliver Løbel
 
-<p align="left">
-En ung, nysgerrig softwarestuderende med fokus på projekter, der skaber værdi.<br/>
-</p>
+- 🎓 Bachelor student in **Software Engineering**
+- 💻 Passionate about **software development**, backend systems, and building real-world projects
+- ⚙️ Interested in **low-level programming**, performance, and how systems work under the hood
+- 🚀 Always working on new ideas — from small utilities to full-stack applications
+- 📍 Based in Denmark
 
 <p align="left">
   <a href="https://github.com/Bilmpz" target="_blank"><b>Portfolio</b></a>
