@@ -2,7 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=%3E+Oliver+L%C3%B8bel;%3E+Developer;%3E+Currently%3A+Building+cool+stuff;%3E+Coffee+%2B+Code+%3D+Life" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
 
 <h1 align="left">Oliver Løbel</h1>
