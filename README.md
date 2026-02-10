@@ -2,7 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Developer" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,c,cpp,postgres,git,linux" />
 
 
 
