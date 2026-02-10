@@ -2,7 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://metrics.lecoq.io/Bilmpz?template=classic&config.timezone=Europe%2FCopenhagen" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:2563eb&height=160&section=footer&text=Oliver%20L%C3%B8bel&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 
 
 
