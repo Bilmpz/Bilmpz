@@ -2,7 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:2563eb&height=120&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=94A3B8&center=true&vCenter=true&width=700&lines=Building+projects+that+create+value." />
 
 
 
