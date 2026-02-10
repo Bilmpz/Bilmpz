@@ -6,8 +6,6 @@
 
 
 
-### 👋 Hi, I'm Oliver Løbel
-
 - 🎓 Bachelor student in **Software Engineering**
 - 💻 Passionate about **software development**, backend systems, and building real-world projects
 - ⚙️ Interested in **low-level programming**, performance, and how systems work under the hood
