@@ -2,7 +2,16 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,c,cpp,postgres,git,linux" />
+<img src="https://capsule-render.vercel.app/api?type=waving
+&color=0:0b1220,50:1e3a8a,100:38bdf8
+&height=230
+&section=header
+&text=Oliver%20Løbel
+&desc=Developer%20%7C%20Software%20Engineering%20Student
+&descSize=18
+&fontSize=56
+&fontColor=ffffff
+&animation=twinkling" />
 
 
 
