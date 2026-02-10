@@ -2,8 +2,9 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://img.shields.io/badge/Status-Building%20Projects%20%F0%9F%9A%80-38bdf8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Software%20Development-0b1220?style=for-the-badge" />
+<p align="center">
+  <img src="https://pngtree.com/freebackground/programming-and-coding-banner-working_1862296.jpg" alt="Developer Coding Banner" width="100%" />
+</p>
 
 
 <h1 align="left">Oliver Løbel</h1>
