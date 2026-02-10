@@ -2,15 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:38bdf8&height=240&section=header&text=Oliver%20L%C3%B8bel&desc=Developer%20%7C%20Building%20Projects%20That%20Create%20Value&descSize=18&fontSize=58&fontColor=ffffff&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Oliver+L%C3%B8bel;Developer;Backend+%26+Frontend+Projects;Always+building+cool+things" />
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,c,cpp,postgres,git,linux" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Bilmpz&label=Profile%20views&color=38bdf8&style=flat" />
+<img src="https://svg-banners.vercel.app/api?type=origin&text1=Oliver%20L%C3%B8bel&text2=Developer&width=900&height=200" />
 
 
 
