@@ -2,7 +2,8 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:38bdf8&height=240&section=header&text=Oliver%20Løbel&desc=Developer%20%7C%20Building%20Projects%20That%20Create%20Value&descSize=18&fontSize=58&fontColor=ffffff&animation=twinkling" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilmpz&theme=github-dark&hide_border=true" />
+
 
 
 <h1 align="left">Oliver Løbel</h1>
