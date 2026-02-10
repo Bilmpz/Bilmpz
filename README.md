@@ -2,7 +2,8 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Bilmpz&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8" />
+<img src="https://img.shields.io/badge/Status-Building%20Projects%20%F0%9F%9A%80-38bdf8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Software%20Development-0b1220?style=for-the-badge" />
 
 
 <h1 align="left">Oliver Løbel</h1>
