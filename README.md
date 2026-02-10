@@ -2,8 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://svg-banners.vercel.app/api?type=pattern&text1=Oliver%20L%C3%B8bel&text2=Developer&width=900&height=180" />
-
+<img src="https://svg-banners.vercel.app/api?type=linear-gradient&text1=Oliver%20L%C3%B8bel&text2=Developer&width=900&height=200" />
 
 
 <h1 align="left">Oliver Løbel</h1>
