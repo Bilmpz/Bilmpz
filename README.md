@@ -2,7 +2,10 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/night.svg" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/header.png" />
+</p>
+
 
 
 <h1 align="left">Oliver Løbel</h1>
