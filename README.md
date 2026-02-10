@@ -2,7 +2,8 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&width=700&lines=Hello%2C+I'm+Oliver+L%C3%B8bel;Software+Developer;Backend+%26+Frontend+Projects" />
+
 
 
 <h1 align="left">Oliver Løbel</h1>
@@ -10,7 +11,6 @@
 
 <p align="left">
 En ung, nysgerrig softwarestuderende med fokus på projekter, der skaber værdi.<br/>
-<i>Mit navn skrives både Oliver Løbel og Oliver Loebel.</i>
 </p>
 
 <p align="left">
@@ -27,56 +27,67 @@ En ung, nysgerrig softwarestuderende med fokus på projekter, der skaber værdi.
 
 ---
 
-## Teknologier
+## 🧠 Backend Languages
 
-### Backend
-<p>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</p>
-
-<p>
-  <b>JavaScript</b> · <b>SQL</b> · <b>Python</b> · <b>API</b> · <b>C</b> · <b>C++</b>
-</p>
-
-### Frontend
-<p>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</p>
-
-<p>
-  <b>JavaScript</b> · <b>React</b> · <b>HTML</b> · <b>CSS</b> · <b>Node.js</b>
-</p>
-
-### Tools
-<p>
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <!-- Premiere Pro er ikke altid i devicon; vi bruger et badge her: -->
-  <img height="28" src="https://img.shields.io/badge/Premiere%20Pro-000000?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Branding-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="42"/>
 </p>
 
 ---
 
-## Hurtig info
-- 🎓 Softwarestuderende (fokus: projekter der skaber værdi)
-- 🧠 Interesseret i backend, performance og system-forståelse
-- 🛠️ Bygger ofte små tools/utility projekter
+## 🎨 Frontend Languages
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42"/>
+</p>
 
 ---
 
-## Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Bilmpz&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilmpz&layout=compact&hide_border=true" />
+## ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42"/>
+</p>
+
+---
+
+## 🧰 Tools & Design
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="42"/>
+</p>
+
+---
+
+## 💻 Operating Systems
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="42"/>
+</p>
+
+---
+
+## 🧪 Extras
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="42"/>
 </p>
