@@ -2,7 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilmpz&theme=github-dark&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:2563eb&height=120&section=footer" />
 
 
 
