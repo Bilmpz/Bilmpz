@@ -2,9 +2,7 @@
      Oliver Løbel • GitHub Profile README
      ========================= -->
 
-<p align="center">
-  <img src="https://pngtree.com/freebackground/programming-and-coding-banner-working_1862296.jpg" alt="Developer Coding Banner" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/night.svg" width="100%" />
 
 
 <h1 align="left">Oliver Løbel</h1>
