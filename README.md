@@ -13,7 +13,7 @@
 - 📍 Based in Denmark
 
 <p align="left">
-  <a href="https://github.com/Bilmpz" target="_blank"><b>Portfolio</b></a>
+  <a href="https://github.com/Bilmpz?tab=repositories" target="_blank"><b>Portfolio</b></a>
   ·
   <a href="https://oliverlobel.com/" target="_blank"><b>Website</b></a>
   ·
