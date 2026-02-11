@@ -15,6 +15,8 @@
 <p align="left">
   <a href="https://github.com/Bilmpz" target="_blank"><b>Portfolio</b></a>
   ·
+  <a href="[https://github.com/Bilmpz](https://oliverlobel.com/)" target="_blank"><b>Website</b></a>
+  ·
   <a href="https://www.linkedin.com/" target="_blank"><b>LinkedIn</b></a>
   ·
   <a href="mailto:oliver.lobel@yahoo.dk" target="_blank"><b>Kontakt</b></a>
