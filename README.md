@@ -8,7 +8,7 @@
 
 - 🎓 Bachelor student in **Software Engineering**
 - 💻 Passionate about **software development**, backend systems, and building real-world projects
-- ⚙️ Interested in **low-level programming**, performance, and how systems work under the hood
+- ⚙️ Interested in **programming**, performance, and how systems work under the hood
 - 🚀 Always working on new ideas — from small utilities to full-stack applications
 - 📍 Based in Denmark
 
