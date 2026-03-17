@@ -6,11 +6,11 @@
 
 
 
-- 🎓 Bachelor student in **Software Engineering**
-- 💻 Passionate about **software development**, backend systems, and building real-world projects
-- ⚙️ Interested in **programming**, performance, and how systems work under the hood
-- 🚀 Always working on new ideas — from small utilities to full-stack applications
-- 📍 Based in Denmark
+- Bachelor student in **Software Engineering**
+- Passionate about **software development**, backend systems, and building real-world projects
+- Interested in **programming**, performance, and how systems work under the hood
+- Always working on new ideas — from small utilities to full-stack applications
+- Based in Denmark
 
 <p align="left">
   <a href="https://github.com/Bilmpz?tab=repositories" target="_blank"><b>Portfolio</b></a>
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Backend Languages
+## Backend Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🎨 Frontend Languages
+## Frontend Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## ⚙️ Backend & Databases
+## Backend & Databases
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="42" />
@@ -63,18 +63,19 @@
 
 ---
 
-## 🧰 Tools & Design
+## Tools & Design
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="42"/>
 </p>
 
 ---
 
-## 💻 Operating Systems
+## Operating Systems
 
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="42"/>
