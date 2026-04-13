@@ -19,7 +19,7 @@
   ·
   <a href="https://www.linkedin.com/" target="_blank"><b>LinkedIn</b></a>
   ·
-  <a href="mailto:oliver.lobel@yahoo.dk" target="_blank"><b>Kontakt</b></a>
+  <a href="https://www.oliverlobel.com/kontakt" target="_blank"><b>Kontakt</b></a>
 </p>
 
 <p align="left">
