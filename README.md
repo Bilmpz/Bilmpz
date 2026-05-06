@@ -15,11 +15,11 @@
 <p align="left">
   <a href="https://github.com/Bilmpz?tab=repositories" target="_blank"><b>Portfolio</b></a>
   ·
-  <a href="https://oliverlobel.com/" target="_blank"><b>Website</b></a>
+  <a href="https://oliverlobel.dk/" target="_blank"><b>Website</b></a>
   ·
-  <a href="https://www.linkedin.com/" target="_blank"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/oliver-l%C3%B8bel-6a7435369/" target="_blank"><b>LinkedIn</b></a>
   ·
-  <a href="https://www.oliverlobel.com/kontakt" target="_blank"><b>Kontakt</b></a>
+  <a href="https://www.oliverlobel.dk/kontakt" target="_blank"><b>Kontakt</b></a>
 </p>
 
 <p align="left">
