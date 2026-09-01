@@ -6,13 +6,6 @@
 <div align="center">
 
 
-<table>
-<tr>
-<td valign="top"><img src="./oliver-ascii.svg" width="370" alt="Oliver Løbel — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="483" alt="CODING — 3D ASCII wordmark" /></td>
-</tr>
-</table>
-
 <br>
 
 
