@@ -10,7 +10,6 @@
 
 
 
-<img src="./contrib-heatmap.svg" width="860" alt="Oliver's GitHub contribution graph — auto-refreshed daily" />
 
 </div>
 
