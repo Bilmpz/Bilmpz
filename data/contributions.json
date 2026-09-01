@@ -1,15 +1,85 @@
 {
   "username": "Bilmpz",
-  "generated_at": "2026-09-01T17:56:15Z",
+  "generated_at": "2026-09-01T18:03:03Z",
   "range": {
     "start": "2025-08-31",
     "end": "2026-09-01"
   },
   "total_contributions": 3479,
+  "active_days": 181,
+  "avg_per_active_day": 19.2,
+  "current_streak": {
+    "length": 8,
+    "start": "2026-08-25",
+    "end": "2026-09-01"
+  },
+  "longest_streak": {
+    "length": 62,
+    "start": "2026-05-17",
+    "end": "2026-07-17"
+  },
   "best_day": {
     "date": "2026-08-21",
     "count": 167
   },
+  "monthly": [
+    {
+      "month": "2025-08",
+      "total": 0
+    },
+    {
+      "month": "2025-09",
+      "total": 10
+    },
+    {
+      "month": "2025-10",
+      "total": 20
+    },
+    {
+      "month": "2025-11",
+      "total": 5
+    },
+    {
+      "month": "2025-12",
+      "total": 13
+    },
+    {
+      "month": "2026-01",
+      "total": 23
+    },
+    {
+      "month": "2026-02",
+      "total": 131
+    },
+    {
+      "month": "2026-03",
+      "total": 148
+    },
+    {
+      "month": "2026-04",
+      "total": 298
+    },
+    {
+      "month": "2026-05",
+      "total": 502
+    },
+    {
+      "month": "2026-06",
+      "total": 305
+    },
+    {
+      "month": "2026-07",
+      "total": 507
+    },
+    {
+      "month": "2026-08",
+      "total": 1488
+    },
+    {
+      "month": "2026-09",
+      "total": 29
+    }
+  ],
   "days": [
     {
       "date": "2025-08-31",
