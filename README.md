@@ -5,7 +5,6 @@
 
 <div align="center">
 
-<h3><code>oliver@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
