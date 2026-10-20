@@ -9,6 +9,11 @@
 
 
 </div>
+<p align="center">
+  <i>"The best code is the kind you don't even know the language of,<br>
+  yet you can still understand exactly what's going on."</i>
+</p>
+
 
 <br>
 
