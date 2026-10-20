@@ -15,7 +15,7 @@
 - Bachelor student in **Software Engineering**
 - Passionate about **software development**, backend systems, and building real-world projects
 - Interested in **programming**, performance, and how systems work under the hood
-- Always working on new ideas — from small utilities to full-stack applications
+- Always working on new ideas - from small utilities to full-stack applications
 - Based in Denmark
 <p align="left">
   <a href="https://github.com/Bilmpz?tab=repositories" target="_blank"><b>Portfolio</b></a>
